@@ -1,0 +1,922 @@
+Código,Doenças e causa mortis
+1.1.0,cólera
+1.1.0,disenteria
+1.1.1,adinamia
+1.1.1,ataxia intersticial
+1.1.1,febre cerebral
+1.1.1,febre entérica
+1.1.1,febre gástrica
+1.1.1,febre mesentérica
+1.1.1,febre nervosa
+1.1.1,febre puerperal
+1.1.1,febre tifoide
+1.1.1,febre tifóide
+1.1.1,febre típica
+1.1.2,angiocolite
+1.1.2,cólera infantil
+1.1.2,colerina infantil
+1.1.2,colite
+1.1.2,diarreia
+1.1.2,diarreia biliosa
+1.1.2,diarreia hemorrágica
+1.1.2,enterite
+1.1.2,enterite catarral
+1.1.2,enterite crônica
+1.1.2,enterocolite
+1.1.2,gastroenteralgia
+1.1.2,gastroenterite
+1.1.2,hemorragia intestinal
+1.1.2,hepato-enterite
+1.1.2,infecção gastrointestinal
+1.1.2,infecção intestinal
+1.1.2,mucoenterite
+1.2.0,erisipela
+1.2.0,febre espanhola
+1.2.0,influenza
+1.2.1,angina
+1.2.1,catapora
+1.2.1,catarro sufocante
+1.2.1,coqueluche
+1.2.1,crupe
+1.2.1,difteria
+1.2.1,difteria laríngea
+1.2.1,edema da glote
+1.2.1,escarlatina
+1.2.1,espasmo da glote
+1.2.1,espasmo na glote
+1.2.1,laringite
+1.2.1,sarampão
+1.2.1,sarampo
+1.2.1,varíola
+1.2.2,adenite
+1.2.2,adenite axilar
+1.2.2,adenite escrofulosa
+1.2.2,adenite inguinal
+1.2.2,adenite intestinal
+1.2.2,adenite supurada
+1.2.2,broncopneumonia
+1.2.2,bronquite
+1.2.2,bronquite asmática
+1.2.2,catarro
+1.2.2,catarro pulmonar
+1.2.2,catarro senil
+1.2.2,congestão tuberculosa
+1.2.2,defluxo catarral
+1.2.2,doença de Pott (tuberculose vertebral)
+1.2.2,escrofulose
+1.2.2,granulia pulmonar
+1.2.2,hemoptise
+1.2.2,inflamação do peito
+1.2.2,lepra
+1.2.2,linfotite
+1.2.2,linfotite perniciosa
+1.2.2,lúpus
+1.2.2,pleurisia
+1.2.2,pleuriz
+1.2.2,pleurodinia
+1.2.2,pleuropneumonia
+1.2.2,pneumonia
+1.2.2,pneumonia lobar
+1.2.2,pneumonia lobular
+1.2.2,pneumonia necrosante
+1.2.2,pulmonia
+1.2.2,sangue novo
+1.2.2,tabes dorsalis
+1.2.2,tuberculose
+1.2.2,tuberculose cutânea
+1.2.2,tuberculose do fígado
+1.2.2,tuberculose generalizada
+1.2.2,tuberculose intestinal
+1.2.2,tuberculose laríngea
+1.2.2,tuberculose mesentérica
+1.2.2,tuberculose miliar
+1.2.2,tuberculose miocárdica
+1.2.2,tuberculose nas articulações
+1.2.2,tuberculose óssea
+1.2.2,tuberculose pulmonar
+1.2.2,tuberculose testicular
+1.2.2,tumor branco
+1.2.2,úlcera escrofulosa
+1.2.2,vício escrofuloso
+1.3.0,acesso pernicioso
+1.3.0,acessos intermitentes
+1.3.0,afecção verminosa
+1.3.0,anemia infecciosa
+1.3.0,ataque verminoso
+1.3.0,bernes
+1.3.0,bicheira
+1.3.0,bichos
+1.3.0,bichos de pé
+1.3.0,bichos do cérebro
+1.3.0,bichos no nariz
+1.3.0,bichos no pé
+1.3.0,elefância
+1.3.0,elefantíase
+1.3.0,febre amarela
+1.3.0,febre biliosa
+1.3.0,febre hemorrágica
+1.3.0,febre hepática
+1.3.0,febre íctero-hemorragica
+1.3.0,febre inflamatória
+1.3.0,febre intermitente
+1.3.0,febre intestinal
+1.3.0,febre maculosa
+1.3.0,febre perniciosa
+1.3.0,febre remitente
+1.3.0,febre remitente biliosa perniciosa
+1.3.0,febre tifo hemorrágica
+1.3.0,hidrofobia
+1.3.0,lombriga
+1.3.0,lombrigas
+1.3.0,malária
+1.3.0,miíase
+1.3.0,miíase do nariz
+1.3.0,pediculose
+1.3.0,piolhos
+1.3.0,pulex penetrans
+1.3.0,sarnas
+1.3.0,teníase
+1.3.0,tifo
+1.3.0,tifo puerperal
+1.3.0,vermes
+1.3.0,vermes intestinais
+1.3.0,verminose
+1.3.1,actinomicose
+1.3.9,ancilostomíase
+1.3.9,cansaço
+1.3.9,helmintíase
+1.3.9,hipoemia intertropical
+1.4.0,antrax
+1.4.0,artrite purulenta
+1.4.0,boubas
+1.4.0,cachexia infecciosa
+1.4.0,caquexia reumática
+1.4.0,carbúnculo do glúteo
+1.4.0,carbúnculo lombar
+1.4.0,carcinoma da cardia
+1.4.0,cárie da costela
+1.4.0,cárie da mandíbula
+1.4.0,cárie de moviller
+1.4.0,cárie do dedo
+1.4.0,cárie do fêmur
+1.4.0,cárie do maxilar
+1.4.0,cárie do nariz
+1.4.0,cárie do pé
+1.4.0,endoarterite
+1.4.0,erosão do pé
+1.4.0,erosão do prepúcio
+1.4.0,febre
+1.4.0,febre reumática
+1.4.0,infecção purulenta
+1.4.0,inflamação
+1.4.0,inflamação do corpo lipoide hipertrofiado
+1.4.0,inflamação do umbigo
+1.4.0,ingurgitamento ganglionar
+1.4.0,loucura
+1.4.0,pseudoartrose
+1.4.0,reumatismo visceral
+1.4.0,septicemia
+1.4.0,sífilis
+1.4.0,úlcera herpética
+1.4.0,úlcera venérea
+1.4.1,abcesso
+1.4.1,abcesso axilar
+1.4.1,abcesso da coxa
+1.4.1,abcesso da face
+1.4.1,abcesso da fossa ilíaca
+1.4.1,abcesso da mão
+1.4.1,abcesso da perna
+1.4.1,abcesso do joelho
+1.4.1,abcesso do pé
+1.4.1,abcesso do pescoço
+1.4.1,abcesso do seio
+1.4.1,abcesso do tórax
+1.4.1,abcesso metastático
+1.4.1,abcesso pernicioso
+1.4.1,abscesso
+1.4.1,adenopatia
+1.4.1,cisto seroso na face
+1.4.1,febre eruptiva
+1.4.1,febre exantemática
+1.4.1,flegmão
+1.4.1,frieira
+1.4.1,fungos nas articulações
+1.4.1,furúnculos
+1.4.1,furunculose
+1.4.1,gangrena
+1.4.1,gangrena linfática
+1.4.1,herpes
+1.4.1,herpes zóster
+1.4.1,impetigo
+1.4.1,panarício
+1.4.1,papiloma
+1.4.1,úlcera
+1.4.1,úlcera da mão
+1.4.1,úlcera fagedênica
+1.4.1,úlcera gangrenosa
+1.4.1,úlcera gangrenosa do pé
+1.4.1,úlcera na axila
+1.4.1,ulceração
+1.4.1,verrugas
+1.4.1,vício herpético
+1.4.2,cefalalgia
+1.4.2,encefalite
+1.4.2,inflamação cerebral
+1.4.2,melancolia infecciosa
+1.4.2,meningite
+1.4.2,meningoencefalite
+1.4.2,meningomielite
+1.4.2,mielite
+1.4.2,mielite dorsal
+1.4.2,mielomeningite
+1.4.2,osteomielite
+1.4.2,osteoperiostite
+1.4.2,paralisia
+1.4.2,paralisia infantil
+1.4.2,polineurite
+1.4.2,polinevrite infecciosa
+1.4.2,tétano
+1.4.2,tétano neonatal
+1.4.2,tétano traumático
+1.4.3,aderências na íris
+1.4.3,cegueira
+1.4.3,circuncisão mal curada
+1.4.3,conjuntivite
+1.4.3,coroidite
+1.4.3,estafiloma
+1.4.3,inflamação da pálpebra
+1.4.3,iride
+1.4.3,keratite
+1.4.3,leucoma corneano
+1.4.3,mancha na córnea
+1.4.3,opacidade da córnea
+1.4.3,opacidade do cristalino
+1.4.3,otite
+1.4.3,septicemia ocular
+1.4.3,supuração do ouvido
+1.4.3,timpanite
+1.4.3,úlcera da córnea
+1.4.3,úlcera do nariz
+1.4.3,úlcera do olho
+1.4.3,ulceração dos olhos
+1.4.3,vertigens
+1.4.4,abcesso cardíaco
+1.4.4,encardite
+1.4.4,endocardite
+1.4.4,endocardite reumática
+1.4.4,hidropericardite
+1.4.4,pericardite
+1.4.5,abcesso da boca
+1.4.5,adenite cervical
+1.4.5,aftas
+1.4.5,amidalite
+1.4.5,estomatite
+1.4.5,estomatite aftosa
+1.4.5,estomatite da intoxicação mercurial
+1.4.5,estomatite medicamentosa
+1.4.5,estomatite mercurial
+1.4.5,faringite
+1.4.5,glossite
+1.4.5,inflamação das glândulas submaxilares
+1.4.5,inflamação na garganta
+1.4.5,noma
+1.4.5,rânula
+1.4.6,abcesso da vulva
+1.4.6,abcesso do pênis
+1.4.6,abcesso do testículo
+1.4.6,abcesso urinário
+1.4.6,albuminúria
+1.4.6,blenorragia
+1.4.6,bubão
+1.4.6,cancro fagedênico
+1.4.6,cancro venéreo
+1.4.6,cancros fagedênicos
+1.4.6,catarro útero-vaginal
+1.4.6,cistite
+1.4.6,cisto do ovário
+1.4.6,clorocistite
+1.4.6,condilomas do pênis
+1.4.6,doença de Bright
+1.4.6,fungos na bexiga
+1.4.6,gonorreia
+1.4.6,hematocele
+1.4.6,infecção urinosa
+1.4.6,infiltração urinosa
+1.4.6,inflamação das vias urinárias
+1.4.6,inflamação intrarrenal
+1.4.6,inflamação no útero
+1.4.6,inflamação urêmica
+1.4.6,metroperitonite
+1.4.6,nefrite
+1.4.6,pionefrose
+1.4.6,uremia
+1.4.6,uretrite
+1.4.6,vaginite
+1.4.7,abcesso da gengiva
+1.4.7,abcesso dentário
+1.4.7,dentição
+1.4.7,polidontia infecciosa
+1.4.8,inflamação na laringe
+1.4.8,parquitose (?) pulmonar
+1.4.8,resfriado
+1.4.8,resfriamento
+1.4.8,rinite
+1.4.8,úlcera da garganta
+1.4.9,abcesso da região epigástrica
+1.4.9,abcesso do fígado
+1.4.9,abcesso do ventre
+1.4.9,abcesso perianal
+1.4.9,catarro do estômago
+1.4.9,catarro intestinal
+1.4.9,embaraço gástrico febril
+1.4.9,embaraço intestinal
+1.4.9,enteroperitonite
+1.4.9,gastrite
+1.4.9,gastrite alcoólica
+1.4.9,gastro-hepatite
+1.4.9,hepatite
+1.4.9,hepatite alcoólica
+1.4.9,hepatite intersticial
+1.4.9,inflamação crônica dos intestinos
+1.4.9,inflamação do estômago
+1.4.9,inflamação do fígado
+1.4.9,inflamação intestinal
+1.4.9,mesenterite
+1.4.9,peritonite
+2.1.0,anemia
+2.1.0,anemia cerebral
+2.1.0,anemia muscular
+2.1.0,anemia perniciosa
+2.1.0,beribéri
+2.1.0,escorbuto
+2.1.1,raquitismo
+2.10.0,ainhum
+2.10.0,antilose
+2.10.0,artrite
+2.10.0,artrite reumática
+2.10.0,artrose
+2.10.0,bursite
+2.10.0,calo do pé
+2.10.0,ciática
+2.10.0,contração muscular
+2.10.0,coxalgia
+2.10.0,dartres
+2.10.0,datres
+2.10.0,dermatite
+2.10.0,dor na perna
+2.10.0,dores ósseas
+2.10.0,dores reumáticas
+2.10.0,eczema
+2.10.0,eczema da perna
+2.10.0,epitelioma
+2.10.0,epitelioma da região supraorbital
+2.10.0,esclerose articular
+2.10.0,fístula da coxa
+2.10.0,fístula subcutânea
+2.10.0,gota
+2.10.0,granuloma na mão e pé
+2.10.0,hidrartrose
+2.10.0,lesão do pé
+2.10.0,lumbago
+2.10.0,moléstia do umbigo
+2.10.0,obstrução do saco lacrimal
+2.10.0,oníxis
+2.10.0,osteíte
+2.10.0,osteíte da perna
+2.10.0,pemphigus
+2.10.0,periostite
+2.10.0,psoríase
+2.10.0,reumatismo
+2.10.0,reumatismo articular
+2.10.0,reumatismo cerebral
+2.10.0,reumatismo muscular
+2.10.0,reumatismo poli articular
+2.10.0,supressão da transpiração
+2.10.0,torcicolo
+2.10.0,úlcera da perna ou do pé
+2.10.0,úlcera dartrosa
+2.10.0,úlcera do calcanhar
+2.10.0,úlcera do joelho
+2.10.0,úlcera do pé
+2.10.0,vicio dartroso
+2.11.0,debilidade
+2.11.0,debilidade congênita
+2.11.0,esgotamento no parto
+2.11.0,faleceu ao nascer
+2.11.0,gravidez
+2.11.0,hemorragia no parto
+2.11.0,hemorragia puerperal
+2.11.0,hemorragia umbilical
+2.11.0,hemorragia uterina
+2.11.0,ictericia dos recém-nascidos
+2.11.0,infantil
+2.11.0,infecção puerperal
+2.11.0,metroperitonite puerperal
+2.11.0,morreu depois de nascida
+2.11.0,morte ao nascer
+2.11.0,natimorto
+2.11.0,parto
+2.11.0,parto prematuro
+2.11.0,peritonite puerperal
+2.11.0,pouco depois de nascer
+2.11.0,puerpério
+2.11.0,puerperismo infeccioso
+2.11.0,retenção da placenta
+2.11.0,ruptura do fígado
+2.11.0,ruptura do septo vaginal
+2.11.0,septicemia puerperal
+2.11.1,aborto
+2.11.1,ao nascer
+2.11.1,após nascer
+2.11.1,após o nascimento
+2.11.1,asfixia perinatal
+2.11.1,atrepsia puerperal
+2.11.1,cardite puerperal
+2.11.2,hérnia umbilical
+2.12.0,aplasia pulmonar
+2.12.0,atrofia
+2.12.0,atrofia dos nervos
+2.12.0,atrofia muscular
+2.12.0,defeitos orgânicos
+2.12.0,ectopia renal
+2.12.0,espinha bífida
+2.12.0,heredosífilis
+2.12.0,sífilis congênita
+2.13.0,alteroma da cartilagem da orelha
+2.13.0,câncer
+2.13.0,câncer da boca
+2.13.0,câncer da face
+2.13.0,câncer da língua
+2.13.0,câncer da mama
+2.13.0,câncer da mão
+2.13.0,câncer de mama
+2.13.0,câncer de peritoneo
+2.13.0,câncer do estômago
+2.13.0,câncer do fígado
+2.13.0,câncer do ovário
+2.13.0,câncer do pênis
+2.13.0,câncer do pescoço
+2.13.0,câncer do reto
+2.13.0,câncer do rosto
+2.13.0,câncer do útero
+2.13.0,câncer na bexiga
+2.13.0,câncer na face
+2.13.0,câncer no esôfago
+2.13.0,cancocytemia
+2.13.0,cancro
+2.13.0,cancro da bexiga
+2.13.0,cancro da boca
+2.13.0,cancro da face
+2.13.0,cancro da língua
+2.13.0,cancro da perna
+2.13.0,cancro do pênis
+2.13.0,cancro interior
+2.13.0,cancros
+2.13.0,caquexia cancerosa
+2.13.0,carcinoma femural
+2.13.0,fibroma
+2.13.0,fibroma da mama
+2.13.0,fibroma do colo
+2.13.0,fibroma do crânio
+2.13.0,fibroma do útero
+2.13.0,leucocitose
+2.13.0,linfadenia
+2.13.0,linfadenoma
+2.13.0,lipoma
+2.13.0,melanosarcoma
+2.13.0,mielosarcoma
+2.13.0,necrose
+2.13.0,osteosarcoma
+2.13.0,pólipo do nariz
+2.13.0,pólipo do útero
+2.13.0,sarcoma
+2.13.0,sarcoma da bexiga
+2.13.0,tumor
+2.13.0,tumor cerebral
+2.13.0,tumor laríngeo
+2.13.0,úlcera cancerosa do estômago
+2.14.0,acidente
+2.14.0,afogamento
+2.14.0,anemia contusa da vagina
+2.14.0,arranhão e ferimento levíssimo do ventre
+2.14.0,arranhão no alto da cabeça
+2.14.0,artrepsia
+2.14.0,artrite traumática
+2.14.0,asfixia
+2.14.0,asfixia devido a um acidente
+2.14.0,asfixia por enforcamento
+2.14.0,asfixia por hipertrofia da tireóide
+2.14.0,asfixia traumática
+2.14.0,assassinada a pedradas
+2.14.0,assassinato
+2.14.0,ataques de estupor
+2.14.0,atropelamento por trem
+2.14.0,atropelamento pro trem
+2.14.0,auto intoxicação
+2.14.0,caquexia senil
+2.14.0,cegueira por traumatismo
+2.14.0,choque traumático
+2.14.0,choque traumático por esmagamento
+2.14.0,comoção cerebral
+2.14.0,comoção da espinha
+2.14.0,contusão
+2.14.0,contusão da medula
+2.14.0,contusão do tórax
+2.14.0,contusão lombar
+2.14.0,contusões
+2.14.0,corpo estranho no intestino
+2.14.0,corpo estranho no olho
+2.14.0,defloramento
+2.14.0,desastre
+2.14.0,despedaçamento do lábio por mordedura
+2.14.0,desvio da coluna
+2.14.0,dilaceração da orelha
+2.14.0,dilaceração do lábio por mordedura
+2.14.0,eletrocutado
+2.14.0,encefalite traumática
+2.14.0,enforcamento
+2.14.0,envenenamento
+2.14.0,envenenamento por láudano
+2.14.0,envenenamento por picada de cobra
+2.14.0,escoriação
+2.14.0,esmagamento de mãos e braços
+2.14.0,esmagamento de membros inferiores
+2.14.0,esmagamento do crânio
+2.14.0,esmagamento dos membros superiores
+2.14.0,esmagamento por trem
+2.14.0,extração da unha
+2.14.0,extração da unha do dedo
+2.14.0,facadas
+2.14.0,fadiga
+2.14.0,ferida
+2.14.0,ferida contusa
+2.14.0,ferida cortante
+2.14.0,ferida incisa
+2.14.0,ferida incisocontusa
+2.14.0,ferida na pele
+2.14.0,ferida penetrante
+2.14.0,feridas no seio
+2.14.0,ferimento
+2.14.0,ferimento abdominal
+2.14.0,ferimento com arma de fogo
+2.14.0,ferimento com instrumento cortante
+2.14.0,ferimento da perna ou do braço
+2.14.0,ferimento da perna por mordedura de cobra
+2.14.0,ferimento do couro cabeludo
+2.14.0,ferimento frontal
+2.14.0,ferimento penetrante
+2.14.0,ferimento por arma de fogo
+2.14.0,ferimento por explosão
+2.14.0,ferimento por instrumento cortante
+2.14.0,ferimento profundo
+2.14.0,ferimentos
+2.14.0,fratura
+2.14.0,fratura da mão
+2.14.0,fratura das costelas
+2.14.0,fratura do crânio
+2.14.0,fratura no braço
+2.14.0,fratura por traumatismo
+2.14.0,hematoma
+2.14.0,hemorragia interna
+2.14.0,hemorragia interna por assassinato
+2.14.0,hemorragia pulmonar traumática
+2.14.0,hemorragia traumática
+2.14.0,hemorragia traumática por assassinato
+2.14.0,insolação
+2.14.0,luxação
+2.14.0,meningite por tentativa de suicídio
+2.14.0,meningite traumática
+2.14.0,meningoencefalite traumática
+2.14.0,mielite traumática
+2.14.0,morte violenta
+2.14.0,perfuração do estômago (assassinato)
+2.14.0,peritonite por perfuração
+2.14.0,peritonite traumática
+2.14.0,queda
+2.14.0,queimadura
+2.14.0,queimadura e choque traumático por explosão
+2.14.0,queimadura por desastre
+2.14.0,queimadura por explosão de pólvora
+2.14.0,queimadura por incêndio
+2.14.0,queimaduras
+2.14.0,queimaduras com fogo
+2.14.0,queimaduras com petróleo
+2.14.0,queimaduras em decorrência da explosão da caldeira de uma locomotiva
+2.14.0,suicídio
+2.14.0,suicídio por arma de fogo
+2.14.0,suicídio por envenenamento
+2.14.0,suicídio por ferimento inciso
+2.14.0,traumatismo
+2.14.0,traumatismo do dedo
+2.14.0,traumatismo do olho
+2.14.0,traumatismo por acidente em estrada de ferro
+2.14.0,traumatismo por coice de animal
+2.14.0,traumatismo por quedas
+2.14.0,trepanação craniana
+2.14.1,atrepsia
+2.14.1,caquexia
+2.14.1,caquexia parenquimatosa
+2.14.1,estafa
+2.14.1,estupor
+2.14.1,fraqueza
+2.14.1,inanição
+2.14.1,marasmo
+2.14.1,marasmo congênito
+2.14.1,marasmo senil
+2.14.1,senilidade
+2.2.0,alcoolismo
+2.2.0,alcoolismo crônico
+2.2.0,caquexia alcoólica
+2.2.0,cloremia
+2.2.0,doença de Basedow-Graves
+2.3.0,bócio
+2.3.0,cretinismo
+2.3.0,diabetes
+2.3.0,hipertrofia da glândula
+2.3.0,intoxicação mercurial
+2.3.0,intoxicação por ácido fênico
+2.3.0,intoxicação urinosa
+2.3.0,intumescência das glândulas da axila
+2.3.0,plumbismo
+2.3.0,profíria
+2.3.0,saturnismo
+2.4.0,afecção cerebral
+2.4.0,alienação mental
+2.4.0,amolecimento cerebral
+2.4.0,arritmia cerebral
+2.4.0,lesão cerebral
+2.4.0,trombose cerebral
+2.4.1,apoplexia
+2.4.1,congestão
+2.4.1,congestão bulbar
+2.4.1,congestão cerebral
+2.4.1,congestão da espinha
+2.4.1,congestão do baço
+2.4.1,congestão medular
+2.4.1,congestão prostática
+2.4.1,derrame cerebral
+2.4.1,embolia cerebral
+2.4.1,hemorragia arterial
+2.4.1,hemorragia cerebral
+2.5.0,afecção convulsiva
+2.5.0,choria
+2.5.0,convulsão
+2.5.0,convulsões
+2.5.0,delirio
+2.5.0,delírio histérico
+2.5.0,delirium tremens
+2.5.0,depressão nervosa
+2.5.0,dissuasão mental
+2.5.0,eclampsia
+2.5.0,epilepsia
+2.5.0,esclerose
+2.5.0,esclerose cerebral
+2.5.0,esclerose do bulbo ocular
+2.5.0,esclerose espinhal
+2.5.0,esclerose medular
+2.5.0,esclerose múltipla
+2.5.0,espasmos
+2.5.0,glaucoma
+2.5.0,hemiplegia
+2.5.0,hemorragia meningica
+2.5.0,hipocondria
+2.5.0,histeria
+2.5.0,histerismo
+2.5.0,idiotismo
+2.5.0,mania
+2.5.0,miastenia
+2.5.0,migrânea (enxaqueca hemiplégica)
+2.5.0,moléstia dos olhos
+2.5.0,nervosismo
+2.5.0,neurastenia
+2.5.0,neuropatia cerebral espinhal
+2.5.0,nevralgia
+2.5.0,nevralgia intercostal
+2.5.0,nevralgia intersticial
+2.5.0,nevralgia lombar
+2.5.0,nevrite
+2.5.0,nevrose
+2.5.0,nevrose cerebroespinal
+2.5.0,oftalmia
+2.5.0,paraplegia
+2.5.0,parenquimatosa cronica
+2.5.0,perturbação mental
+2.5.0,polineuropatia alcoolica
+2.5.0,polinevrite alcoólica
+2.5.0,septo do cranio
+2.5.0,serrose medular
+2.5.3,amaurose
+2.5.3,catarata
+2.6.0,afecção cardíaca
+2.6.0,anasarca
+2.6.0,aneurisma
+2.6.0,aneurisma arterial
+2.6.0,aneurisma cerebral
+2.6.0,aneurisma da aorta
+2.6.0,aneurisma da carótida
+2.6.0,aneurisma da córnea
+2.6.0,aneurisma da crossa
+2.6.0,aneurisma pulmonar
+2.6.0,anuerisma
+2.6.0,arritmia cardíaca
+2.6.0,arteriectasia
+2.6.0,arterosclerose
+2.6.0,ascite
+2.6.0,assistolia cardíaca
+2.6.0,ataque cardíaco
+2.6.0,ataque fulminante
+2.6.0,ateromatose
+2.6.0,aterosclerose
+2.6.0,aterosclerose generalizada
+2.6.0,cardiopatia
+2.6.0,cetasis da aorta
+2.6.0,cianose
+2.6.0,colapso
+2.6.0,coração forçado
+2.6.0,dança de são guido
+2.6.0,discrasia sanguínea
+2.6.0,ectasia da aorta
+2.6.0,edema do pé e da perna
+2.6.0,embolia
+2.6.0,enterosclerose
+2.6.0,esclerose cardíaca
+2.6.0,esclerose mitral
+2.6.0,esforço cardíaco
+2.6.0,estenose aórtica
+2.6.0,estenose mitral
+2.6.0,estreitamento da aorta
+2.6.0,estreitamento mitral
+2.6.0,flebite
+2.6.0,hemofilia
+2.6.0,hemorragia
+2.6.0,hemorragia bulbar
+2.6.0,hidroperia
+2.6.0,hidropisia
+2.6.0,hipertrofia cardíaca
+2.6.0,incômodo do coração
+2.6.0,insuficiência cardíaca
+2.6.0,lesão cardíaca
+2.6.0,lesão mitral
+2.6.0,lesão orgânica do coração
+2.6.0,ligadura do radial
+2.6.0,moléstia do coração
+2.6.0,moléstia do peito
+2.6.0,nevrose cardíaca
+2.6.0,púrpura hemorrágica
+2.6.0,síncope cardíaca
+2.6.0,surmenage cardíaca
+2.6.0,trombose
+2.6.2,hérnia da aorta
+2.7.0,afecção da laringe
+2.7.0,afecção laríngea
+2.7.0,asma
+2.7.0,asma cardíaca
+2.7.0,bronquiectasia
+2.7.0,complicações de moléstia crônica de orgãos importantes da caixa torácica
+2.7.0,congestão pulmonar
+2.7.0,dor de garganta
+2.7.0,edema pulmonar
+2.7.0,embolia pulmonar
+2.7.0,empiema
+2.7.0,enfisema pulmonar
+2.7.0,esclerose pulmonar
+2.7.0,fibrose
+2.7.0,fibrose pulmonar
+2.7.0,fístula do tórax
+2.7.0,fístula intercostal
+2.7.0,hemorragia pulmonar
+2.7.0,hidropneumotorax
+2.7.0,hidrotórax
+2.7.0,lascas nas fossas nasais
+2.8.0,cárie
+2.8.0,cárie de fumar
+2.8.0,fístula do abdome
+2.8.0,fístula mandibular
+2.8.1,dispepsia
+2.8.1,doença do estômago
+2.8.1,doença do fígado
+2.8.1,embaraço gástrico
+2.8.1,espasmo do esôfago
+2.8.1,estreitamento do esôfago
+2.8.1,gastralgia
+2.8.1,incômodo da garganta
+2.8.1,incômodo gástrico
+2.8.1,indigestão
+2.8.1,refluxo
+2.8.1,úlcera do estômago
+2.8.2,afecção do tubo gastrintestinal
+2.8.2,cólica intestinal
+2.8.2,constipação
+2.8.2,constipação do ventre
+2.8.2,desarranjo intestinal
+2.8.2,dilatação do estômago
+2.8.2,enteralgia
+2.8.2,fístula
+2.8.2,fístula anal
+2.8.2,fístulas
+2.8.2,hemorroidas
+2.8.2,hérnia
+2.8.2,incômodo intestinal
+2.8.2,invaginação intestinal
+2.8.2,lesões viscerais
+2.8.2,moléstia dos intestinos
+2.8.2,moléstia intestinal
+2.8.2,obstrução intestinal
+2.8.2,prolapso do reto
+2.8.2,tenesmo
+2.8.2,volvo intestinal
+2.8.3,cirrose hepática
+2.8.3,cirrose hepática alcoólica
+2.8.3,cirrose pulmonar
+2.8.3,cólica hepática
+2.8.3,congestão hepática
+2.8.3,congestão hepática alcoólica
+2.8.3,degenerescência do fígado
+2.8.3,icterícia
+2.9.0,amenorreia
+2.9.0,balamite
+2.9.0,balanite
+2.9.0,cálculo vesical
+2.9.0,congestão uterina
+2.9.0,dilatação da uretra
+2.9.0,dismenorreia
+2.9.0,disúria
+2.9.0,endometrite
+2.9.0,epitelioma do pênis
+2.9.0,estreitamento da uretra
+2.9.0,fimose
+2.9.0,fístula do escroto
+2.9.0,fístula uretro-vesical
+2.9.0,fístula urinária
+2.9.0,fístula vesico-vaginal
+2.9.0,glicosúria
+2.9.0,hematúria
+2.9.0,hidrocele
+2.9.0,hipertrofia dos grandes lábios
+2.9.0,hipertrofia prostática
+2.9.0,incômodo do útero
+2.9.0,incontinência urinária
+2.9.0,inversão do útero
+2.9.0,leucorreia
+2.9.0,metrite
+2.9.0,metrite parenquimatosa
+2.9.0,metro-ovarite
+2.9.0,metrorragia
+2.9.0,moléstia do útero
+2.9.0,nevralgia do ovário
+2.9.0,oclusão do colo do útero
+2.9.0,orquite
+2.9.0,ovarite
+2.9.0,parafimose
+2.9.0,paresia da bexiga
+2.9.0,prolapso do útero
+2.9.0,prostatite
+2.9.0,retenção da urina
+2.9.0,sofrimento crônico da bexiga
+2.9.0,úlcera do pênis
+2.9.0,úlcera dos testículos
+2.9.0,ulceração do colo do útero
+2.9.2,hérnia escrotal
+2.9.2,hérnia inguinal
+3.1.0,(sem diagnóstico)
+3.1.0,amanheceu morto
+3.1.0,ataque
+3.1.0,ataques
+3.1.0,ataques que sempre sofria
+3.1.0,enfermidade desconhecida
+3.1.0,mal
+3.1.0,mal de fogo
+3.1.0,moléstia desconhecida
+3.1.0,morte natural
+3.1.0,morte repentina
+3.1.0,repentinamente
+3.1.0,velhice
+3.2.0,(sem assistência)
+3.2.0,encontrado morto
+3.3.0,(ilegível)
+3.3.0,(incerto)
+3.3.0,afecção purulante
+3.3.0,alite
+3.3.0,angelite dorsal
+3.3.0,areunia
+3.3.0,arphidea
+3.3.0,arthemasio
+3.3.0,carnionne
+3.3.0,causa pernicioso
+3.3.0,cipemania
+3.3.0,consequência de sofrimentos crônicos
+3.3.0,corticoiles
+3.3.0,desmilsia
+3.3.0,diátese
+3.3.0,formigueiro
+3.3.0,hipertrofia
+3.3.0,hiptica
+3.3.0,moléstia
+3.3.0,onanismo
+3.3.0,pontada
+3.3.0,retucção
+3.3.0,schthyse
+3.3.0,sorophulos
+3.3.0,suspensão
+3.3.0,ungelite dorsal
+3.3.0,vaccina

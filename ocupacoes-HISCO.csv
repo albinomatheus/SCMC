@@ -1,0 +1,326 @@
+HISCO,Ocupação
+-2,nenhuma
+-2,sem profissão
+43200,agencia
+-1,aleijado
+-1,cego
+-1,criança
+-1,cega
+-1,indigente
+-1,mendigo
+-1,proprietário
+-1,surda muda
+-1,vagabundo
+-1,velhice
+2000,engenheiro
+3610,pirotécnico
+4215,capitão marítimo
+6105,doutor
+6105,doutor em medicina
+6105,médico
+6310,dentista
+6710,farmacêutico
+6710,oficial de farmácia
+7110,enfermeiro
+7110,enfermeira
+7310,parteira
+12110,advogado
+12410,solicitador
+13000,instrutor
+13020,professor
+13020,professora
+13200,adjunta
+13250,professor de piano
+13940,diretor de colégio
+14120,sacerdote
+14990,sacristão
+16120,escultor
+16130,retratista
+16310,fotógrafo
+17000,artista
+17140,músico
+17145,artista lírico
+17145,toador
+17530,mágico
+17590,empregado circo
+18020,artista de gimnástica
+18020,artista gymnasta
+21000,administrador
+21240,empreiteiro
+22210,chefe de estação
+22490,despenseira
+22520,feitor
+32120,escrivão
+33110,guarda-livros
+33110,escriturário
+33110,escrivão da fazenda
+33130,caixeiro
+33135,cobrador
+36000,empregado da linha de ferro
+36020,guarda da noite
+36020,guarda noturno
+37030,carteiro
+37040,mensageiro
+38040,telegrafista
+39140,ajudante de administrador
+39150,conferente
+39310,oficina
+39340,oficial de justiça
+41020,negociante
+41020,mascate
+41020,ex-negociante
+41030,comerciante
+41030,peixeiro
+43220,viajante
+43220,tropeiro
+45130,empregado do comércio
+45130,comércio
+45220,quitandeiro
+45220,quitandeira
+53100,cozinheiro
+53100,cozinheira
+53120,chefe de cozinha
+53190,ajudante de cozinheiro
+54010,serviço doméstico
+54010,criada
+54010,criado
+54020,serviço de casa
+54020,copeiro
+54020,casa
+54020,pagem
+54020,copeira
+54020,criado grave
+55125,porteiro
+56010,lavadeira
+56090,engraxate
+56090,engraxador
+57025,cabeleireiro
+57030,barbeiro
+58220,cabo de esquadra
+58220,oficial de polícia
+58320,oficial
+58320,oficial de ronda
+58330,sargento
+58340,praça
+58340,soldado
+58340,urbano
+58940,zelador
+59990,serviços
+61110,colono
+61110,colona
+61110,fazendeiro
+61110,agricultor
+61115,caseiro
+61220,camarada
+61220,cultivador
+61270,hortelão
+62105,serviço de roça
+62105,roceiro
+62105,lavrador
+62105,trabalhador de roça
+62105,roceira
+62105,escrava fugida
+62105,lavoura
+62105,trabalhador da roça
+62490,domador
+62740,jardineiro
+64100,pescador
+71110,canteiro
+72100,fundidor
+72100,forneiro
+73190,lustrador
+73210,serrador
+75320,ajustador
+75320,ajustador mecânico
+75400,tecelão
+75490,engomadeira
+75622,tintureiro
+76145,cortidor
+76145,curtidor
+77120,moleiro
+77260,refinador de açúcar
+77320,carniceiro
+77320,matador
+77620,padeiro
+77630,doceira
+77630,pasteleiro
+77660,confeiteiro
+77660,confeiteira
+77690,baleiro
+77690,pastaio
+77810,cervejeiro
+77890,licorista
+78230,cigarreira
+78230,cigarreiro
+78300,charuteiro
+79100,alfaiate
+79140,costureira
+79310,chapeleiro
+79390,modista de chapéus
+79510,costureiro
+79640,colchoeiro
+79930,consertador de guarda-chuvas
+80110,sapateiro
+80320,seleiro
+81000,carpinteiro
+81120,marceneiro
+81120,ebanista
+81925,fabricante de carros
+81930,tanoeiro
+81990,canoeiro
+83110,ferreiro
+83110,ferrador
+83320,torneiro mecânico
+83420,torneiro
+83540,amolador
+83930,serralheiro
+83990,agregador
+83990,malhador
+84105,mecânico
+84220,relojoeiro
+84970,mecanista
+85510,eletricista
+85590,gasista
+87340,funileiro
+87340,folheiro
+87340,latoeiro
+87350,caldeireiro
+88010,joieira
+88010,joieiro
+88050,ourives
+89210,oleiro
+89210,louceiro
+89240,tijoleiro
+89240,telheiro
+89590,empalhador
+92110,imprensa
+92110,imprimeur
+92190,tipógrafo
+92250,litógrafo
+92625,encadernador
+92990,dourador
+93120,pintor
+93120,pintora
+94990,fogueteiro
+95140,pedreiro
+95140,servente
+95140,servente de pedreiro
+95140,ajudante de pedreiro
+95145,marmorista
+95190,calcuteiro
+95190,taipeiro
+95720,vidraceiro
+95720,vidreiro
+95750,caixilheiro
+95955,poceiro
+97130,carregador
+97190,portador
+97415,trabalhador de linha férrea
+97415,trabalhador de estrada de ferro
+98135,marinheiro
+98320,maquinista
+98330,foguista
+98340,ajudante de trem
+98340,praticante de trem
+98390,manobrista
+98390,guarda-trem
+98430,mestre de linha
+98430,trabalhador de estação ferroviária
+98620,carroceiro
+98620,cocheiro
+98620,carreiro
+99900,empregado
+99900,empregada
+99910,trabalhador
+99910,limpador de máquinas
+99930,operário
+99930,trabalhador de fábrica
+53100,cozinehiro
+-2,não declarada
+61110,colono\colono agrícula
+54010,serviços domésticos
+53100,cozinheira(o)
+97415,empregado na companhia (cia) mogiana
+62105,trabalhador agrícula\da lavoura
+97415,empregado da companhia (cia) paulista
+99920,jornaleiro
+54010,empregada(o) doméstica(o)
+54010,criado domestico
+81120,marcineiro
+54010,criada de servir
+97415,empregado estr. de ferro
+21000,administrador\adm. agricula
+58220,praça de polícia
+33130,caixeiro do comercio
+-1,capitalista
+61110,empreiteiro agrícola
+33110,guarda livros
+62105,empregado de fazenda
+62105,empregado agrícola
+98620,cocheiro da praça
+54010,doméstica
+31000,empregado público
+-1,estudante
+98390,guarda trem
+41020,marchante
+14120,padre
+38040,telegrafista (operador de telégrafo)
+33130,caixeira (o)
+98430,empregado de estação
+7110,enfermeira(o)
+98390,manobrador
+62510,vaqueiro
+62510,boiadeiro
+61220,camarada da roça
+98620,cocheiro particular
+62105,empregado da fazenda
+31000,empregado municipal
+99910,empregado na limpeza pública
+30000,empregado no gasômetro
+2000,engenheiro civil
+32120,escrevente
+33110,escrivão de fazenda
+58340,guarda
+21420,hoteleiro
+21110,industrial
+58340,praça da guarda cívica
+54040,prostituta
+58340,soldado da força pública
+58340,soldado da guarda cívica
+58220,soldado de polícia
+43200,agente
+61110,agregado
+99900,ajudante
+75320,aprendiz de ajustador
+75320,armador
+95160,calceteiro
+61220,camarada da lavoura
+62105,carapina/carpina
+22220,chefe do telégrafo nacional
+36040,condutor de bonde
+95140,construtor
+22000,contra mestre
+77660,doceiro
+99910,domador de animais
+30000,empregado da água e esgoto
+30000,empregado na companhia (cia) do gás
+30000,empregado na companhia(cia) de água e esgoto (de campinas)
+37030,empregado no correio
+92110,impressor
+58220,inspetor de polícia
+62105,jornaleiro agricula
+77510,leiteiro
+77320,magarefe
+98390,manobrista da estrada de ferro
+99910,matador de formigas
+79140,modista
+45220,negociante ambulante
+39340,oficial do registro civil
+13250,professor de música
+13200,professor normalista
+13020,professor particular
+80320,selteiro(?)
+95190,taipeiro/mestre taipeiro
+41030,vend. bilhetes de loteria
+-1,vive de esmolas
+58940,zelador matadouro

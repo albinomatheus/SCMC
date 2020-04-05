@@ -1,4 +1,4 @@
-## Revelando a doença e a morte: mortalidade e morbidade em Campinas, 1875-1900
+## Revelando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900
 
 Este repositório contém as Tabelas de Correspondência utilizadas para a
 Classificação das Doenças, Causas de Morte e Profissões dos pacientes da Santa

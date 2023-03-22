@@ -1,9 +1,9 @@
 ## Revelando a doença e a morte: morbidade e mortalidade em Campinas, 1875-1900
 
-Este repositório contém as Tabelas de Correspondência utilizadas para a
+Este repositório contém os dados processados dos Registros de Enfermos da Santa Casa de Misericórdia de Campinas e Tabelas de Correspondência utilizadas para a
 Classificação das Doenças, Causas de Morte e Profissões dos pacientes da Santa
 Casa de Misericórdia de Campinas de 1876 a 1900 e do Registro Civil de Óbitos
-dos cartórios de Conceição e Santa Cruz de Campinas, de 1889 a 1900.
+dos cartórios de Conceição e Santa Cruz de Campinas, de 1889 a 1900. Os arquivos são um produto da [dissertação de mestrado defendida na Unicamp em 2020](https://repositorio.unicamp.br/acervo/detalhe/1128926). 
 
 ### CID-BM.csv: Classificação de Doenças de McKeown (1976) Modificada por Bernabeu-Mestre et. al (2003)
 
